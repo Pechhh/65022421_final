@@ -1,0 +1,56 @@
+
+
+#top{
+    background-color: blueviolet;
+    margin-left: 600px;
+    margin-right: 600px;
+    height: 450px;
+    border-radius: 10px;
+}
+#lnsertdata{
+    margin-left: 275px
+}
+#name{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+#textname{
+    margin-left: 80px;
+    margin-top: -15px;
+}
+#surname{
+    margin-left: 50px;
+}
+#textsurname{
+    margin-left: 80px;
+    margin-top: -15px;
+}
+#ss{
+    margin-left: 50px;
+}
+#textss{
+    margin-left: 80px;
+    margin-top: -15px;
+}
+#s{
+    margin-left: 50px;
+}
+#texts{
+    margin-left: 80px;
+    margin-top: -15px;
+}
+#adddd{
+    display: flex;
+}
+#addd{
+    margin-top: 30px;
+    width: 400px;
+    height: 50px;
+    margin-left: 150px;
+    background-color: rgb(173, 132, 211);
+}
+#add{
+    margin-left: -230px;
+    margin-top: 15px;
+    color: aliceblue;
+}
